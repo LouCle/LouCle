@@ -1,5 +1,5 @@
 ### Pronouns: louis
-Hvad ville Lammet være og De 12 og Vinen?
+Hvad ville Lammet være uden De 12 og Vinen?
 
 <!--
 **LouCle/LouCle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
