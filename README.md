@@ -1,4 +1,4 @@
-✨ i expect 
+✨ **louis' profile**
 
-- 📚 I’m currently working on ... Compendium of diagrams based on Kunze & Hoffmann's Linear Algebra
-- 🌐  I’m currently learning ... Functional and real analysis, point-set topology
+- 📚 **I’m currently working on** compendium of diagrams based on Kunze & Hoffmann's Linear Algebra
+- 🌐 **I’m currently learning** functional and real analysis, point-set topology
