@@ -1,4 +1,4 @@
 ✨ **louis' profile**
 
-- 📚 **I’m currently working on** my embarrassing undergrad website
+- 📚 **I’m currently working on** idk
 - 🌐 **Current courses are** analysis and differential geometry <3
